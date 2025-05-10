@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dominika_Rzepka_Web_Wroclaw/static/css/main.2728196e.css",
+    "main.js": "/Dominika_Rzepka_Web_Wroclaw/static/js/main.9e769f3e.js",
+    "static/js/453.17212cd9.chunk.js": "/Dominika_Rzepka_Web_Wroclaw/static/js/453.17212cd9.chunk.js",
+    "index.html": "/Dominika_Rzepka_Web_Wroclaw/index.html",
+    "main.2728196e.css.map": "/Dominika_Rzepka_Web_Wroclaw/static/css/main.2728196e.css.map",
+    "main.9e769f3e.js.map": "/Dominika_Rzepka_Web_Wroclaw/static/js/main.9e769f3e.js.map",
+    "453.17212cd9.chunk.js.map": "/Dominika_Rzepka_Web_Wroclaw/static/js/453.17212cd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2728196e.css",
+    "static/js/main.9e769f3e.js"
+  ]
+}
