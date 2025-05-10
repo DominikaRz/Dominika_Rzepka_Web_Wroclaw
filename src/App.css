@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+ul, li{ text-decoration: none; list-style-image: none;}
+
+.centerTable { margin: 0px auto; }
+td, th{ border-bottom: slategray 2px solid;}
+input{ text-align: center; width: 40px;}
+th{ padding: 1rem !important;}
+.ptd{ padding: 1rem !important;} /*padding td*/
+.product{ border-bottom: slategray 1px solid; padding: 5px 0; margin: 3px 0;}
