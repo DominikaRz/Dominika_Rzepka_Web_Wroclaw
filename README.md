@@ -1,6 +1,18 @@
+pl: Cel Projektu: Stworzenie działającej aplikacji webowej, która umożliwia użytkownikom przeglądanie produktów, dodawanie i usuwanie ich z koszyka zakupów, przeglądanie podsumowania zamówienia przed oraz po jego złożeniu.
+
+en: Project Goal: To create a working web application that allows users to browse products, add and remove them from the shopping cart, view order summary before and after placing the order.
+
+This task is done for the Ocado Technology internship program. My goal was to present all the requirements in the simplest way in one SPA with additional static HTML file. I hope this solution is accurate and meets all the requirements with additional navbar at top for better navigation.
+
+## This site is available on [GitHub Pages](https://dominikarz.github.io/Dominika_Rzepka_Web_Wroclaw/index.html).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## To create the project please use:
+
+`yarn create react-app Dominika_Rzepka_Web_Wroclaw --template typescript`
 
 ## Available Scripts
 
